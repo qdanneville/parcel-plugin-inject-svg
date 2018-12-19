@@ -1,7 +1,5 @@
 ![](assets/parcel-plugin-inject-svg.png)
 
-# parcel-plugin-prettier  [![npm version](https://badge.fury.io/js/parcel-plugin-prettier.svg)](https://badge.fury.io/js/parcel-plugin-prettier)
-
 This parcel plugin will check all img tags with an external svg and replace the tag with inline svg.
 It uses the PostHTML feature of parcel
 ---
