@@ -1,5 +1,5 @@
 {
-  "name": "posthtml-svg-inline",
+  "name": "parcel-plugin-inject-svg",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
